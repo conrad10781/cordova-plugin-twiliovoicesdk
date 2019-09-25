@@ -36,7 +36,7 @@
             </feature>
         </config-file>
 
-        <dependency id="phonegap-plugin-push"/>
+        <dependency id="cordova-plugin-firebasex"/>
 
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
             <!-- [START fcm_listener] -->
