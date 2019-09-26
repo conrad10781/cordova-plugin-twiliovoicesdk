@@ -79,11 +79,7 @@
                 target-dir="src/com/phonegap/plugins/twiliovoice" />
         <source-file src="src/android/com/phonegap/plugins/twiliovoice/SoundPoolManager.java"
                 target-dir="src/com/phonegap/plugins/twiliovoice" />
-        <source-file src="src/android/com/phonegap/plugins/twiliovoice/fcm/VoiceFirebaseInstanceIDService.java"
-                target-dir="src/com/phonegap/plugins/twiliovoice/fcm" />
-        <source-file src="src/android/com/phonegap/plugins/twiliovoice/fcm/VoiceFirebaseMessagingService.java"
-                     target-dir="src/com/phonegap/plugins/twiliovoice/fcm" />
-
+        
         <resource-file src="sounds/ringing.wav" target="res/raw/ringing.wav"/>
     </platform>
 
